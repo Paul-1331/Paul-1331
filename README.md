@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Paul!
 
 🎓 CS Undergrad @ NIT Calicut  
-💻 Interested in Algorithms, Game Development, and AI/ML  
-📚 Currently learning: Graph Theory, Competitive Programming, Pygame  
+💻 Interested in Theoretical Computer Science, Algorithms, Game Development, and AI/ML  
+📚 Currently learning: DSA, Graph Theory, Competitive Programming, Pygame  
 
 ---
 
 ### 🔧 Skills
 - Programming: C, C++, Python  
-- Tools: Git, GitHub, VS Code  
+- Tools: Git, GitHub, VS Code, Latex
 
 ---
 
