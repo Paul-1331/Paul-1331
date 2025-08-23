@@ -13,7 +13,8 @@
 ---
 
 ### 🚀 Current Projects
-- Procedural Dungeon Crawler (Python + Pygame)  
+- Procedural Dungeon Crawler (Python + Pygame)
+- Apophis Chess Engine
 - Exploring Competitive Programming (Codeforces)  
 
 ---
