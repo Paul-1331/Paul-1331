@@ -28,4 +28,4 @@ I enjoy solving problems(If I am able to solve them 😅) , building structured 
 
 ---
 
-<h2 align="center">Life if NP-Hard, but we approximate.</h2>
+<h2 align="center">Code is like humor. When you have to explain it, it’s bad.</h2>
