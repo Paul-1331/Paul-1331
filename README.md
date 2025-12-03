@@ -1,25 +1,30 @@
-👋 Hey, I'm Paul Biju
-🎓 Second-year Computer Science student at NIT Calicut
+<h1 align="center">👋 Hi there, I'm <strong>Paul Biju</strong></h1>
 
-Passionate about understanding how computers really work — from elegant algorithms to intelligent systems.
+<h3 align="center">
+Second-year Computer Science Student @ NIT Calicut  
+</h3>
 
-🌟 Interests
+---
 
-📘 Theoretical Computer Science
+## ✨ About Me
+I'm deeply interested in exploring how computation fundamentally works — from abstract models and complexity to real-world systems and intelligent algorithms.
 
-🤖 AI / Machine Learning
+I enjoy solving problems, building structured ideas, and constantly learning concepts that compound over time.
 
-🌐 Web Development
+---
 
-🧩 Competitive Programming
+## 🌟 Interests
+- 📘 **Theoretical Computer Science**  
+- 🤖 **AI / Machine Learning**  
+- 🌐 **Web Development**  
+- 🧩 **Competitive Programming**
 
-📚 Currently Learning
+---
 
-⚙️ Spring Boot (Backend Development)
+## 📚 Currently Learning
+- ⚙️ **Spring Boot** for backend development  
+- 🧠 Improving at **Competitive Programming**
 
-🧠 Competitive Programming (improving problem-solving depth)
+---
 
-✨ About Me
-
-I love solving tough problems, building structured systems, and learning concepts that scale over time.
-Always exploring, always curious.
+<h2 align="center">🚀 Always curious. Always building. Always learning.</h2>
