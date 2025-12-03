@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hey, I'm Paul Biju
+🎓 Second-year Computer Science student at NIT Calicut
 
-<!--
-**Paul-1331/Paul-1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about understanding how computers really work — from elegant algorithms to intelligent systems.
 
-Here are some ideas to get you started:
+🌟 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Theoretical Computer Science
+
+🤖 AI / Machine Learning
+
+🌐 Web Development
+
+🧩 Competitive Programming
+
+📚 Currently Learning
+
+⚙️ Spring Boot (Backend Development)
+
+🧠 Competitive Programming (improving problem-solving depth)
+
+✨ About Me
+
+I love solving tough problems, building structured systems, and learning concepts that scale over time.
+Always exploring, always curious.
