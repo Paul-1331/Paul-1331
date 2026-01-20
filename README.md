@@ -14,17 +14,17 @@ I enjoy solving problems(If I am able to solve them 😅) , building structured 
 ---
 
 ## 🌟 Interests
-- 🧩 **Theoretical Computer Science**  
-- 🤖 **AI / Machine Learning**  
-- 🌐 **Web Development**  
 - 🎯 **Competitive Programming**
+- 🧩 **Theoretical Computer Science**
+- 🌐 **Web Development**
+- 🤖 **AI / Machine Learning**    
 - 📈 **Quantitative Finance**
 
 ---
 
 ## 📚 Currently Learning
-- ⚙️ **Spring Boot** for backend development  
-- 🚀 Grinding **Codeforces**
+- ⚙️ **Javascript** for web development  
+- 🚀 Grinding **Leetcode and Codeforces**
 
 ---
 <h2 align="center" style="font-size: 30px; font-weight: normal;">
