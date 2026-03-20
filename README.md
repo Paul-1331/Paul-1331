@@ -9,7 +9,7 @@ Computer Science Student @ NIT Calicut
 ## ✨ About Me
 I love exploring the fundamentals of computing, from abstract models and complexity to real-world systems and intelligent algorithms.
 
-I enjoy solving problems(If I am able to solve them 😅) , building structured ideas, and constantly learning newer concepts.
+I enjoy solving problems, building structured ideas, and constantly learning newer concepts.
 
 ---
 
