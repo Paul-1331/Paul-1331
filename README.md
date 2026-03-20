@@ -27,7 +27,3 @@ I enjoy solving problems(If I am able to solve them 😅) , building structured 
 - 🚀 Grinding **Leetcode and Codeforces**
 
 ---
-<h2 align="center" style="font-size: 30px; font-weight: normal;">
-🔭 “We can only see a short distance ahead, but we can see plenty there that needs to be done.”  
-<br>— Alan Turing
-</h2>
