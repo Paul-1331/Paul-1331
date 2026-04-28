@@ -1,50 +1,66 @@
+```cpp
+#include <life.h>
+#include <wikipedia.h>  // dangerous import — use with caution
+
+struct Paul {
+
+    // identity
+    const std::string  name           = "Paul Biju";
+    const std::string  location       = "NIT Calicut, Kerala";
+    const int          height         = 173;          // cm
+    const std::string  display        = "boy";
+    const std::string  spirit_animal  = "Garfield 🐱";
+
+    // academics
+    std::string        degree         = "B.Tech, Computer Science";
+    std::string        institute      = "NIT Calicut";
+
+    // interests
+    std::vector<std::string> into = {
+        "competitive programming",
+        "theoretical CS",       // automata, complexity, the void
+        "web development",
+        "AI / ML",
+        "quantitative finance"
+    };
+
+    // cp
+    std::string  fav_problem_type  = "greedy";   // local optimum, trust
+    std::string  grinding_on       = "Codeforces + Leetcode";
+
+    // traits
+    bool         night_owl         = true;
+    bool         reads_papers      = true;
+    bool         borderline_lazy   = true;   // yet somehow still here
+    std::string  monday_opinion    = "strongly opposed";
+
+    // WARNING: the following field has caused significant productivity loss.
+    // do not enable unless you have 4+ hours to spare.
+    WikipediaClient wiki;   // opens one tab. then another. then seventeen more.
+
+    void say_hi() {
+        // greedily takes the path of most interesting topic
+        std::cout << "hey — glad you stopped by.\n";
+        std::cout << "i'm probably awake right now. it's late.\n";
+    }
+};
 ```
-         ██████╗  █████╗ ██╗   ██╗██╗
-         ██╔══██╗██╔══██╗██║   ██║██║
-         ██████╔╝███████║██║   ██║██║
-         ██╔═══╝ ██╔══██║██║   ██║██║
-         ██║     ██║  ██║╚██████╔╝███████╗
-         ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
-
-# hey, I'm Paul 👋
-
-CS student @ **NIT Calicut** — I like understanding how things work at a fundamental level, then breaking them.
 
 ---
 
-### what I'm into
+### what I'm building
 
-- **competitive programming** — the only place where thinking harder actually helps
-- **theoretical CS** — complexity, automata, the stuff that makes you question whether P=NP at 2am
-- **web dev** — currently building things that actually run in a browser
-- **AI/ML** — learning when to use it and when to just write a for loop
-- **quantitative finance** — math that has opinions about money
-
----
-
-### currently
-
-- grinding [Codeforces](https://codeforces.com) and Leetcode
-- learning JavaScript properly (not just vibes)
-- reading things I don't fully understand yet
-
----
-
-### a few things I've built / am building
-
-<!-- pin your actual repos here — update as you go -->
-| project | what it is |
-|---|---|
-| [GreedyArena](https://github.com/paulbiju) | competitive quiz platform with real-time multiplayer and Glicko-2 ratings |
-| more soon | always working on something |
+| project | stack | what |
+|---|---|---|
+| [GreedyArena](https://github.com/paulbiju) | React · TypeScript · Supabase | competitive quiz platform with real-time multiplayer + Glicko-2 ratings |
 
 ---
 
 ### find me
 
-[![GitHub](https://img.shields.io/badge/github-paulbiju-181717?style=flat-square&logo=github)](https://github.com/paulbiju)
+[![Codeforces](https://img.shields.io/badge/Codeforces-paulbiju-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/paulbiju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulbiju-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulbiju)
 
 ---
 
-<sub>NIT Calicut · Kerala, India</sub>
+<sub>NIT Calicut · Kerala, India · probably tabs, not spaces · hates Mondays</sub>
