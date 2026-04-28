@@ -8,6 +8,7 @@ struct Paul {
     const std::string  name           = "Paul Biju";
     const std::string  location       = "NIT Calicut, Kerala";
     const int          height         = 173;          // cm
+    const int          age            = 20;           // year
     const std::string  display        = "boy";
     const std::string  spirit_animal  = "Garfield 🐱";
 
@@ -39,20 +40,11 @@ struct Paul {
     WikipediaClient wiki;   // opens one tab. then another. then seventeen more.
 
     void say_hi() {
-        // greedily takes the path of most interesting topic
         std::cout << "hey — glad you stopped by.\n";
         std::cout << "i'm probably awake right now. it's late.\n";
     }
 };
 ```
-
----
-
-### what I'm building
-
-| project | stack | what |
-|---|---|---|
-| [GreedyArena](https://github.com/paulbiju) | React · TypeScript · Supabase | competitive quiz platform with real-time multiplayer + Glicko-2 ratings |
 
 ---
 
