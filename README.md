@@ -9,7 +9,7 @@ struct Paul {
     const int          height         = 173;          // cm
     const int          age            = 20;           // year
     const std::string  display        = "boy";
-    const std::string  spirit_animal  = "Garfield 🐱";
+    const std::string  spirit_animal  = "Garfield";
 
     // setup
     std::string  os      = "Debian";
