@@ -43,7 +43,6 @@ struct Paul {
 
     void say_hi() {
         std::cout << "hey — glad you stopped by.\n";
-        std::cout << "i'm probably awake right now. it's late.\n";
     }
 };
 ```
@@ -54,7 +53,3 @@ struct Paul {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-biju-cheeramvelil-047541332)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/StrangeSet)
-
----
-
-<sub>NIT Calicut · Kerala, India · probably tabs, not spaces · hates Mondays</sub>
