@@ -1,5 +1,6 @@
 ```cpp
 #include <life.h>
+#include <pain.h>       // was already included in life.h
 #include <wikipedia.h>  // dangerous import — use with caution
 
 struct Paul {
