@@ -1,7 +1,5 @@
 ```cpp
 #include <life.h>
-#include <pain.h>       // was already included in life.h
-#include <wikipedia.h>  // dangerous import — use with caution
 
 struct Paul {
 
@@ -12,6 +10,11 @@ struct Paul {
     const int          age            = 20;           // year
     const std::string  display        = "boy";
     const std::string  spirit_animal  = "Garfield 🐱";
+
+    // setup
+    std::string  os      = "Debian";
+    std::string  editor  = "VS Code";
+    std::string  shell   = "bash";
 
     // academics
     std::string        degree         = "B.Tech, Computer Science and Engineering";
@@ -37,10 +40,6 @@ struct Paul {
     bool         reads_papers      = true;
     bool         borderline_lazy   = true;   // yet somehow still here
     std::string  monday_opinion    = "strongly opposed";
-
-    // WARNING: the following field has caused significant productivity loss.
-    // do not enable unless you have 4+ hours to spare.
-    WikipediaClient wiki;   // opens one tab. then another. then seventeen more.
 
     void say_hi() {
         std::cout << "hey — glad you stopped by.\n";
