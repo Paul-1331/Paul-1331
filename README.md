@@ -13,7 +13,7 @@ struct Paul {
     const std::string  spirit_animal  = "Garfield 🐱";
 
     // academics
-    std::string        degree         = "B.Tech, Computer Science";
+    std::string        degree         = "B.Tech, Computer Science and Engineering";
     std::string        institute      = "NIT Calicut";
     const int          sem            = 4;
     const float        cgpa           = 9.67;         // it's all downhill from here    
