@@ -6,8 +6,8 @@ struct Paul {
     // identity
     const std::string  name           = "Paul Biju";
     const std::string  location       = "NIT Calicut, Kerala";
-    const int          height         = 173;          // cm
-    const int          age            = 20;           // year
+    int height                        = 173;          // cm
+    int age                           = 20;           // year
     const std::string  display        = "boy";
     const std::string  spirit_animal  = "Garfield";
 
@@ -17,10 +17,10 @@ struct Paul {
     std::string  shell   = "bash";
 
     // academics
-    std::string        degree         = "B.Tech, Computer Science and Engineering";
-    std::string        institute      = "NIT Calicut";
-    const int          sem            = 4;
-    const float        cgpa           = 9.67;         // it's all downhill from here    
+    std::string  degree         = "B.Tech, Computer Science and Engineering";
+    std::string  institute      = "NIT Calicut";
+    int sem                     = 4;
+    float cgpa                  = 9.67;   
 
     // interests
     std::vector<std::string> into = {
