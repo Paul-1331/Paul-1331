@@ -26,8 +26,9 @@ struct Paul {
     std::vector<std::string> into = {
         "competitive programming",
         "theoretical CS",
-        "web development",
         "AI / ML",
+        "Robotics",
+        "web development",
         "quantitative finance"
     };
 
