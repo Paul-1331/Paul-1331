@@ -19,8 +19,8 @@ struct Paul {
     // academics
     std::string  degree         = "B.Tech, Computer Science and Engineering";
     std::string  institute      = "NIT Calicut";
-    int sem                     = 4;
-    float cgpa                  = 9.67;   
+    int sem                     = 5;
+    float cgpa                  = 9.66;   
 
     // interests
     std::vector<std::string> into = {
