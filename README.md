@@ -38,7 +38,6 @@ struct Paul {
 
     // traits
     bool         night_owl         = true;
-    bool         reads_papers      = true;
     bool         borderline_lazy   = true;   // yet somehow still here
     std::string  monday_opinion    = "strongly opposed";
 
