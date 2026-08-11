@@ -4,7 +4,7 @@
 struct Paul {
 
     // identity
-    const std::string  name           = "Paul Biju";
+    const std::string  name           = "Paul Biju Cheeramvelil";
     const std::string  location       = "NIT Calicut, Kerala";
     int height                        = 173;          // cm
     int age                           = 20;           // year
@@ -24,17 +24,12 @@ struct Paul {
 
     // interests
     std::vector<std::string> into = {
-        "competitive programming",
         "theoretical CS",
         "AI / ML",
+        "competitive programming",
         "Robotics",
-        "web development",
         "quantitative finance"
     };
-
-    // cp
-    std::string  fav_problem_type  = "greedy";   // local optimum, trust
-    std::string  grinding_on       = "Codeforces + Leetcode";
 
     // traits
     bool         night_owl         = true;
