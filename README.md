@@ -25,8 +25,8 @@ struct Paul {
     // interests
     std::vector<std::string> into = {
         "theoretical CS",
-        "AI / ML",
         "competitive programming",
+        "AI / ML",
         "Robotics",
         "quantitative finance"
     };
