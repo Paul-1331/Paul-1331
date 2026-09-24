@@ -27,8 +27,7 @@ struct Paul {
         "theoretical CS",
         "competitive programming",
         "AI / ML",
-        "Robotics",
-        "quantitative finance"
+        "Robotics"
     };
 
     // traits
